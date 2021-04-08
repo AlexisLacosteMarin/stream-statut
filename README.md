@@ -1,16 +1,16 @@
-//Configuration : 
+Step 1 - Configuration : 
 
 1 : Go in Terminal 
 2 : Write npm init
 3 : Touch your Entry touch seven times
 4 : Write npm i --save discord.js
 
-//Code : 
+Step 2 - Code : 
 
 1 : Create an new file, name index.js
 2 : Copy my code
 
-//Setup : 
+Step 3 - Setup : 
 
 IMPORTANT : What do you must to change is just this : NAME, CHANNEL, TOKEN : 
  
@@ -24,3 +24,7 @@ bot.on('ready', function () {
 })
 
 bot.login('TOKEN')
+
+Step 4 : Turn on 
+
+To turn on your bot, type in Terminal start index.js
